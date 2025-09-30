@@ -1,9 +1,11 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on using Github.
+- 🌱 I’m currently learning Statsitics
+- My name is nayu, you can find information from there.
 <!--
 **nayuding9-commits/nayuding9-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 
 - 🔭 I’m currently working on using Github.
 - 🌱 I’m currently learning Statsitics
